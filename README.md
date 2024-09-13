@@ -1,10 +1,11 @@
-## Hi there 👋
+![banner presentacion](1.png)
 
-<!--
-**jaco194/jaco194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*estudiante en ciencias de la computacion*
+***
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacobo-giraldo-284151329) [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/jacobogiraldovillada)
 
-Here are some ideas to get you started:
-
+**ALGUNOS DATOS SOBRE MI**
+***
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align= "right"src=https://media.giphy.com/media/fAe5ZoqgP8MZG7VWON/giphy.gif?cid=790b7611dktj8a2emf55ifsg415o7975ewbwb6sf63qwy9vq&ep=v1_gifs_search&rid=giphy.gif&ct=>
